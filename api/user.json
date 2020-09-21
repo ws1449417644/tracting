@@ -1,0 +1,45 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 10,
+  "data": [
+    {
+      "id": 1,
+      "dname": "计算机科学与技术学院",
+      "creatatime": "1999-01-01",
+      "remark": "备注"
+    },
+    {
+      "id": 1,
+      "dname": "计算机科学与技术学院",
+      "creatatime": "1999-01-01",
+      "remark": "备注"
+    },{
+      "id": 1,
+      "dname": "计算机科学与技术学院",
+      "creatatime": "1999-01-01",
+      "remark": "备注"
+    },{
+      "id": 1,
+      "dname": "计算机科学与技术学院",
+      "creatatime": "1999-01-01",
+      "remark": "备注"
+    },{
+      "id": 1,
+      "dname": "计算机科学与技术学院",
+      "creatatime": "1999-01-01",
+      "remark": "备注"
+    },{
+      "id": 1,
+      "dname": "计算机科学与技术学院",
+      "creatatime": "1999-01-01",
+      "remark": "备注"
+    },{
+      "id": 1,
+      "dname": "计算机科学与技术学院",
+      "creatatime": "1999-01-01",
+      "remark": "备注"
+    }
+
+  ]
+}

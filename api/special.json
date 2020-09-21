@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 10,
+  "data": [
+    {
+      "id": 1,
+      "pname": "英才科技",
+      "pcity": "太原",
+      "phead": "张三",
+      "teacher": "李四",
+      "time": "2020-10-10",
+      "address": "科技楼"
+
+    },{
+      "id": 2,
+      "pname": "英才科技",
+      "pcity": "太原",
+      "phead": "张三",
+      "teacher": "李四",
+      "time": "2020-10-10",
+      "address": "科技楼"
+
+    },{
+      "id": 3,
+      "pname": "英才科技",
+      "pcity": "太原",
+      "phead": "张三",
+      "teacher": "李四",
+      "time": "2020-10-10",
+      "address": "科技楼"
+
+    },{
+      "id": 4,
+      "pname": "英才科技",
+      "pcity": "太原",
+      "phead": "张三",
+      "teacher": "李四",
+      "time": "2020-10-10",
+      "address": "科技楼"
+
+    },{
+      "id": 5,
+      "pname": "英才科技",
+      "pcity": "太原",
+      "phead": "张三",
+      "teacher": "李四",
+      "time": "2020-10-10",
+      "address": "科技楼"
+
+    },{
+      "id": 6,
+      "pname": "英才科技",
+      "pcity": "太原",
+      "phead": "张三",
+      "teacher": "李四",
+      "time": "2020-10-10",
+      "address": "科技楼"
+
+    },{
+      "id": 7,
+      "pname": "英才科技",
+      "pcity": "太原",
+      "phead": "张三",
+      "teacher": "李四",
+      "time": "2020-10-10",
+      "address": "科技楼"
+
+    },{
+      "id": 8,
+      "pname": "英才科技",
+      "pcity": "太原",
+      "phead": "张三",
+      "teacher": "李四",
+      "time": "2020-10-10",
+      "address": "科技楼"
+
+    },{
+      "id": 9,
+      "pname": "英才科技",
+      "pcity": "太原",
+      "phead": "张三",
+      "teacher": "李四",
+      "time": "2020-10-10",
+      "address": "科技楼"
+
+    },{
+      "id": 10,
+      "pname": "英才科技",
+      "pcity": "太原",
+      "phead": "张三",
+      "teacher": "李四",
+      "time": "2020-10-10",
+      "address": "科技楼"
+
+    }
+  ]
+}
