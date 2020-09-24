@@ -6,7 +6,7 @@
     {
       "id": 1,
       "marjor": "软件工程",
-      "session": "1001",
+      "session": "2017",
       "classnum": "10001",
       "sno": "100001",
       "sname": "张三",
@@ -17,7 +17,7 @@
     {
       "id": 2,
       "marjor": "软件工程",
-      "session": "1001",
+      "session": "2017",
       "classnum": "10001",
       "sno": "100002",
       "sname": "道立夫",
@@ -27,7 +27,7 @@
     }, {
       "id": 3,
       "marjor": "软件工程",
-      "session": "1001",
+      "session": "2017",
       "classnum": "10001",
       "sno": "100003",
       "sname": "文章",
@@ -37,7 +37,7 @@
     }, {
       "id": 4,
       "marjor": "软件工程",
-      "session": "1001",
+      "session": "2017",
       "classnum": "10001",
       "sno": "100004",
       "sname": "波特",
@@ -47,7 +47,7 @@
     }, {
       "id": 5,
       "marjor": "软件工程",
-      "session": "1001",
+      "session": "2017",
       "classnum": "10001",
       "sno": "100005",
       "sname": "罗杰",
@@ -57,7 +57,7 @@
     }, {
       "id": 6,
       "marjor": "软件工程",
-      "session": "1001",
+      "session": "2017",
       "classnum": "10001",
       "sno": "100006",
       "sname": "周测",
@@ -67,7 +67,7 @@
     }, {
       "id": 7,
       "marjor": "软件工程",
-      "session": "1001",
+      "session": "2017",
       "classnum": "10001",
       "sno": "100007",
       "sname": "祝融",
@@ -77,7 +77,7 @@
     }, {
       "id": 8,
       "marjor": "软件工程",
-      "session": "1001",
+      "session": "2017",
       "classnum": "10001",
       "sno": "100008",
       "sname": "诸葛",
@@ -87,7 +87,7 @@
     }, {
       "id": 9,
       "marjor": "软件工程",
-      "session": "1001",
+      "session": "2017",
       "classnum": "10001",
       "sno": "100009",
       "sname": "赵如",
@@ -97,7 +97,7 @@
     }, {
       "id": 10,
       "marjor": "软件工程",
-      "session": "1001",
+      "session": "2017",
       "classnum": "10001",
       "sno": "100010",
       "sname": "光泽",
