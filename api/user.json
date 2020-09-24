@@ -10,33 +10,33 @@
       "remark": "备注"
     },
     {
-      "id": 1,
-      "dname": "计算机科学与技术学院",
+      "id": 2,
+      "dname": "哲学院",
       "creatatime": "1999-01-01",
       "remark": "备注"
     },{
-      "id": 1,
-      "dname": "计算机科学与技术学院",
+      "id": 3,
+      "dname": "法学院",
       "creatatime": "1999-01-01",
       "remark": "备注"
     },{
-      "id": 1,
-      "dname": "计算机科学与技术学院",
+      "id": 4,
+      "dname": "工学院",
       "creatatime": "1999-01-01",
       "remark": "备注"
     },{
-      "id": 1,
-      "dname": "计算机科学与技术学院",
+      "id": 5,
+      "dname": "经济学院学院",
       "creatatime": "1999-01-01",
       "remark": "备注"
     },{
-      "id": 1,
-      "dname": "计算机科学与技术学院",
+      "id": 6,
+      "dname": "工程学院",
       "creatatime": "1999-01-01",
       "remark": "备注"
     },{
-      "id": 1,
-      "dname": "计算机科学与技术学院",
+      "id": 7,
+      "dname": "商学院",
       "creatatime": "1999-01-01",
       "remark": "备注"
     }
